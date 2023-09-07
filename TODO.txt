@@ -1,0 +1,20 @@
+make plots covering the "first 10min chaos" for dutch 2023 gp
+- compare rainfall / tracktemp weather_data() --> (https://docs.fastf1.dev/api.html#fastf1.api.weather_data)
+  vs something (lap times? pitstops (stints=time between stops)? tyre types?)
+- smth with race_control_messages() ?
+- this(https://medium.com/towards-formula-1-analysis/formula-1-data-analysis-tutorial-2021-russian-gp-to-box-or-not-to-box-da6399bd4a39) link
+  may be helpful in doing like weather data vs stints or like comparing lap times with different compounds during some weather event (rainfall)
+  
+
+italy 2023 gp quals
+- compare ver, sai, lec
+  - make plot of laptimes over time
+
+when comparing two racers:
+- compare speed / distance
+- compare throttle / distance
+- compare brake / distance
+- do all 3 on one page (just 3 plots in one cell)
+
+
+
