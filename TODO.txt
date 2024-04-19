@@ -6,15 +6,36 @@ make plots covering the "first 10min chaos" for dutch 2023 gp
   may be helpful in doing like weather data vs stints or like comparing lap times with different compounds during some weather event (rainfall)
   
 
-italy 2023 gp quals
-- compare ver, sai, lec
-  - make plot of laptimes over time
+monza 2023 gp quals
+- compare ver, sai, lec (done)
+  - make plot of laptimes over time (done)
 
-when comparing two racers:
+monza 23 race
+- ver per sai lec
+- graph place changes (done)
+- try to figure out corner annotations
+  - do a telemetry plot for lap 47
+
+when comparing two racers (telemetry comparison):
 - compare speed / distance
 - compare throttle / distance
 - compare brake / distance
 - do all 3 on one page (just 3 plots in one cell)
 
+Monza23 plotting discoveries ??
+- 7 plot telemetry (and deltatime) comparison between 2 drivers for a specified lap
+- plot of position changes during a race
+  - using a for loop to save time and space when doing >2 drivers
 
+Singapore23 race
+- plot starting from mercedes last stint to finish
+- look at telemetry for nor and sai in like last 10 laps
+  - maybe throw rus in too
+  - include drs bc its v important
+- plot of position changes during a race
+- Questions to ans w data:
+  - did sai slowing to give nor drs actually affect whether rus would overtake (assuming no crash)
+  
 
+Brazil23 sprint race / race
+- 
