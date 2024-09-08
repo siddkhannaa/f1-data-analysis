@@ -10,3 +10,8 @@
 - mercedes falling off?
 - aston improving (ALO at least..)
 - FER trying to catch RBR
+- merc major improvement, FER getting cooked
+- AM couldn't keep up with other constructor improvements
+- RBR fall from grace is tragic
+- NOR is the new VER, MCL making improvements that are working magic
+- PIA is fighting NOR, no team orders as NOR is a challenger for the WDC
